@@ -1,2 +1,1 @@
-# fcc
-Repo for free code camp projects
+# Backend Challenges boilerplate - package.json
